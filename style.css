@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+.button-container {
+    align-items: center;
+    justify-content: center;
+    margin: 0, auto;
+}
+
+.time {
+    align-items: center;
+    justify-content: right;
+    margin: 0, auto;
+}
+
+#startbutton {
+    font-size: 3.5rem;
+}
